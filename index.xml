@@ -7,12 +7,25 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx786.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Corporate Crusade Suite</title>
+        <link>https://thedarklynx786.github.io/bpbx-jmbx-tracks/corporatecrusadesuite/</link>
+        <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx786.github.io/bpbx-jmbx-tracks/corporatecrusadesuite/</guid>
+        <description>&lt;img src="https://thedarklynx786.github.io/bpbx-jmbx-tracks/corporatecrusadesuite/CorporateCrusade.png" alt="Featured image of post Corporate Crusade Suite" /&gt;&lt;p&gt;This is kind of my first &amp;ldquo;set&amp;rdquo; of tracks; calling it an album seems kinda wrong, so I&amp;rsquo;m deciding it to call it a &amp;ldquo;suite.&amp;rdquo; It started with the first track, &amp;ldquo;Corporate Crusade,&amp;rdquo; which was originally made for a game jam with 2 other friends of mine. Eventually I started working on the other tracks, and I soon wish to turn this into an OST for the actual game, which I will be trying to revive, develop, and finish into a decent top-down shooter. I don&amp;rsquo;t have much art to show because art is the one thing I&amp;rsquo;m lacking in game design, so I&amp;rsquo;ll keep a pixel art of the player sprite as a placeholder image for now. As I think of more level ideas, I will compose more tracks and maybe update these old ones.&lt;/p&gt;
+&lt;p&gt;All of these tracks use the key of C minor, and are centered primarly around the notes G, Ab, and F. Different variations give each track its own identity. I would say this is kind of similar to the Prelude tracks in ULTRAKILL, so there my inspiration.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Website Music Section</title>
         <link>https://thedarklynx786.github.io/p/website-music-section/</link>
         <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
         
         <guid>https://thedarklynx786.github.io/p/website-music-section/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/p/website-music-section/Composition.png" alt="Featured image of post Website Music Section" /&gt;</description>
+        <description>&lt;img src="https://thedarklynx786.github.io/p/website-music-section/Composition.png" alt="Featured image of post Website Music Section" /&gt;&lt;p&gt;I&amp;rsquo;ve added a new Music Section to my site! It features all of the tracks I have worked on. This post is about a month old from when I am actually writing this (August 2nd, 2024), and that&amp;rsquo;s because it took some time to develop the music section into something I actually found suited my site. And it&amp;rsquo;s live! Go check it out &amp;ndash;&amp;gt; &lt;a class=&#34;link&#34; href=&#34;https://thedarklynx786.github.io/music/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Music Section!&lt;/a&gt; (Or you know, you can just click the tab in the sidebar).&lt;/p&gt;
+&lt;p&gt;It took quite some time to get lists working, so I eventually just defauted to using tile lists and making my own custom ones from the site&amp;rsquo;s theme. It worked really well! Gave me lot&amp;rsquo;s of CSS experience while I was at it. Future plans for the site do include using JavaScript to make more interactive elements. Let&amp;rsquo;s make this site more interesting, eh?&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Archives</title>
@@ -79,7 +92,7 @@
 	srcset=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/OverflowingLake_hu2e52a8502ab570a6a33de72b57233eb9_3674411_480x0_resize_q75_box.jpg 480w, https://thedarklynx786.github.io/p/6-26-2024-bike-logs/OverflowingLake_hu2e52a8502ab570a6a33de72b57233eb9_3674411_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;A view of the overflowing lake. That tree is knee-deep.&#34;
+		alt=&#34;A view of the overflowing lake. That tree is knee-deep. Could trees have knees?&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -187,7 +200,35 @@
         <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
         
         <guid>https://thedarklynx786.github.io/p/first-post/</guid>
-        <description></description>
+        <description>&lt;p&gt;Funny, I actually never put any content on this post.&lt;/p&gt;
+&lt;p&gt;First post of many! Stay tuned for more!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Ozymandias</title>
+        <link>https://thedarklynx786.github.io/bpbx-jmbx-tracks/ozymandias/</link>
+        <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx786.github.io/bpbx-jmbx-tracks/ozymandias/</guid>
+        <description>&lt;img src="https://thedarklynx786.github.io/bpbx-jmbx-tracks/ozymandias/OzymandiasMitryAnderson.jpg" alt="Featured image of post Ozymandias" /&gt;</description>
+        </item>
+        <item>
+        <title>Chill Jam</title>
+        <link>https://thedarklynx786.github.io/bpbx-jmbx-tracks/chill-jam/</link>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx786.github.io/bpbx-jmbx-tracks/chill-jam/</guid>
+        <description>&lt;img src="https://thedarklynx786.github.io/bpbx-jmbx-tracks/chill-jam/Chill.jpeg" alt="Featured image of post Chill Jam" /&gt;&lt;p&gt;This track was inspired by those weird but good sounding ethereal-aesthetic drones that you sometimes find on YouTube, and also a little bit by the OneShot OST. I also kind of wanted to encapsulate the feeling of stying nice and warm inside while it snows outside, which is certainly wishful thinking because there was no snow when I was creating this piece.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Experiments</title>
+        <link>https://thedarklynx786.github.io/bpbx-jmbx-tracks/experiments/</link>
+        <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx786.github.io/bpbx-jmbx-tracks/experiments/</guid>
+        <description>&lt;img src="https://thedarklynx786.github.io/bpbx-jmbx-tracks/experiments/Experiments.jpeg" alt="Featured image of post Experiments" /&gt;&lt;p&gt;The tracks showcased here are a bunch of play-around tracks I made before I got a little serious with making music on BeepBox/JummBox. They are pretty basic and a good place to look back to see how far I&amp;rsquo;ve come.&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Links</title>
