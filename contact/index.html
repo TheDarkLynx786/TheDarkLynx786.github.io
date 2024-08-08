@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://thedarklynx786.github.io/contact/'>
 
-<link rel="stylesheet" href="/scss/style.min.2fc591419905a6db0332e373c8a086d45d9e9fc475fe31151dd90fb441ee073c.css"><meta property='og:title' content="Contact">
+<link rel="stylesheet" href="/scss/style.min.77c71a976127e7012b0b385c75e965243131977410c633b9ab951ede67fa2f1e.css"><meta property='og:title' content="Contact">
 <meta property='og:description' content="">
 <meta property='og:url' content='https://thedarklynx786.github.io/contact/'>
 <meta property='og:site_name' content='Murtaza Haque&#39;s Website'>
@@ -285,30 +285,111 @@
     
 </section>
 
-<div class="contact-body"> 
-    <form class="form">
-        <h1 class="form-title"> Don't Contact Me (Yet)! Still Under Construction!</h1>
+<div class="contact-body">
+    
+    <link rel="stylesheet" href="https://cdn.lineicons.com/4.0/lineicons.css" />
+    <form action="#" id="form" class="form">
+        <h1 class="form-title">Contact Me!</h1>
+        <p class="form-description">Need to talk? Enter in your stuff below, and I'll get back to you in some time!</p>
+
+
+
         <div> 
             <p class="form-subtitle">Name:</p> 
-            <input type="text" id="name" placeholder="Your Name" required>
+            <input type="text" name="name" placeholder="Your Name" required>
         </div>
+        
         <div>
             <p class="form-subtitle">Email:</p> 
-            <input type="text" id="email" placeholder="Your Email" required>
+            <input type="text" name="email" placeholder="Your Email" required>
+        </div>
+        
+         
+        <div>
+            <p class="form-subtitle" id="number-label"></p>
+            <script type="text/javascript">
+                label = document.getElementById("number-label");
+                num1 = Math.floor(Math.random() * 1000),num2 = Math.floor(Math.random()*1000);
+                label.innerHTML = "Bot Check: What's " + num1 + " + " + num2 + "?";
+            </script>
+            <input type="text" id="addition" placeholder="Math time!">
         </div>
         
         <div>
             <p class="form-subtitle">Have any favorite music? Drop the name and artist and I'll give it a listen:</p> 
-            <input type="text" id="music" placeholder="(Optional) Your Favorite Music">
+            <input type="text" name="music" placeholder="(Optional) Your Favorite Music">
         </div>
         
-
+        
         <div>
             <p class="form-subtitle">Your Message:</p>
-            <textarea resize="none" id="message" rows="4" placeholder="Have something to say? Shoot!"></textarea>
+            <textarea resize="none" name="message" rows="4" placeholder="Have something to say? Shoot!" required></textarea>
         </div>
-        <button type="submit">Send</button>
+
+        
+        <button type='submit'>Send</button>
+
+        
+        <div class="loader">
+            <i class="lni lni-spinner-solid"></i>
+        </div>
+        <div class="sendoff-msg"></div>
     </form>
+
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+    
+    <script type="text/javascript">
+        (function() {
+            
+            emailjs.init({publicKey: "GSwdno2FHiciyvCb4",});
+        })();
+
+
+        const msg = document.querySelector(".sendoff-msg");
+
+        function gradeMath() {
+            value = document.getElementById("addition").value;
+            sum = num1 + num2;     
+            if (value != sum) {
+                alert("Come on now, it's just addition. :)");
+                return false;
+            }
+        }
+        
+        
+        window.onload = function() {
+            
+            document.getElementById("form").addEventListener('submit', function(event) {
+                
+                chker = gradeMath();
+
+                if(chker == false) return false;
+
+                event.preventDefault();
+        
+                document.querySelector(".loader").classList.add("show");
+
+                
+                emailjs.sendForm("service_my_website", "template_website_email", this).then(
+                    () => {
+                        document.getElementById("form").reset();
+                        document.querySelector(".loader").classList.remove("show");
+                        msg.innerHTML = "";
+                        msg.innerHTML += "<span class='msg-sent'>Email sent! I will get back to you soon, thank you!</span>";
+                        msg.classList.add("show");
+                        setTimeout( () => msg.classList.remove("show"), 2000);
+                    }, 
+                    (error) => {
+                        document.querySelector(".loader").classList.toggle("show");
+                        msg.innerHTML = "";
+                        msg.innerHTML += "<span class='msg-not-sent'>Uh Oh, message not sent! Check your connection and try again.</span>";
+                        msg.classList.add("show");
+                    }
+                );
+            });
+        }
+    </script>
 
 </div> 
 
