@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Programming-projects on Murtaza Haque&#39;s Website</title>
+        <link>https://thedarklynx786.github.io/programming-projects/</link>
+        <description>Recent content in Programming-projects on Murtaza Haque&#39;s Website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx786.github.io/programming-projects/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Roblox Game Judger</title>
+        <link>https://thedarklynx786.github.io/programming-projects/robloxgamejudger/</link>
+        <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx786.github.io/programming-projects/robloxgamejudger/</guid>
+        <description>&lt;img src="https://thedarklynx786.github.io/programming-projects/robloxgamejudger/PythonCalculator.png" alt="Featured image of post Roblox Game Judger" /&gt;&lt;p&gt;Insert stuff here idk&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Python Calculator</title>
+        <link>https://thedarklynx786.github.io/programming-projects/pythoncalculator/</link>
+        <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx786.github.io/programming-projects/pythoncalculator/</guid>
+        <description>&lt;img src="https://thedarklynx786.github.io/programming-projects/pythoncalculator/PythonCalculator.png" alt="Featured image of post Python Calculator" /&gt;&lt;p&gt;Insert stuff here idk&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

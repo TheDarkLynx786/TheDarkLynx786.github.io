@@ -6,7 +6,20 @@
         <description>Recent content in website on Murtaza Haque&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx786.github.io/categories/website/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx786.github.io/categories/website/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Website Contact Page</title>
+        <link>https://thedarklynx786.github.io/p/website-contact-page/</link>
+        <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx786.github.io/p/website-contact-page/</guid>
+        <description>&lt;img src="https://thedarklynx786.github.io/p/website-contact-page/YouGotMail.png" alt="Featured image of post Website Contact Page" /&gt;&lt;p&gt;Hello there! You&amp;rsquo;ve been reading a lot of content on this website, haven&amp;rsquo;t you? Well you&amp;rsquo;re a good listener. Or reader. Whichever, you get the point.&lt;/p&gt;
+&lt;p&gt;Now I&amp;rsquo;m going to open up the floor (or simply a new page) where you can send me whatever&amp;rsquo;s on YOUR mind! (It&amp;rsquo;s a contact page, I made a contact page. This is way more dramatic than it&amp;rsquo;s supposed to be, but hey, it&amp;rsquo;s a post, so I suppose there has to be some entertainment value.)&lt;/p&gt;
+&lt;p&gt;So now if you&amp;rsquo;ve got anything you want to say, feel free to shoot me a message!&lt;/p&gt;
+&lt;p&gt;The form currently uses EmailJS, which is pretty basic in terms of a messenger service. I plan to switch to another one soon like Nodemailer where I can (or rather you can) send file attachments without purchasing a subscription. There was a plan to add a section like that, but that&amp;rsquo;s the point where the idea halted.&lt;/p&gt;
+&lt;p&gt;On a real note, try not to send anything hateful, and well, you know your digital ettiquette. I ain&amp;rsquo;t your mom or anything. Also, even if you do send something weird in: first of all, bruh, second of all, I&amp;rsquo;m likely to laugh it off anyway :).&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Website Music Section</title>
         <link>https://thedarklynx786.github.io/p/website-music-section/</link>
         <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>

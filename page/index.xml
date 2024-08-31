@@ -6,7 +6,17 @@
         <description>Recent content in Pages on Murtaza Haque&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx786.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx786.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Coding Projects</title>
+        <link>https://thedarklynx786.github.io/programming-projects/</link>
+        <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx786.github.io/programming-projects/</guid>
+        <description>&lt;p&gt;As you know, I am a developer and whatnot, and this website itself is one of my projects! I do have several others though, some small and some big, and this is the page where I showcase them all.&lt;/p&gt;
+&lt;p&gt;Some projects have executables which you can download to run on your own to test them out, and each project will have its own GitHub repository where you can see the code for it.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Contact</title>
         <link>https://thedarklynx786.github.io/contact/</link>
         <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>

@@ -6,7 +6,46 @@
         <description>Recent content in Posts on Murtaza Haque&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx786.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx786.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Website Contact Page</title>
+        <link>https://thedarklynx786.github.io/p/website-contact-page/</link>
+        <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx786.github.io/p/website-contact-page/</guid>
+        <description>&lt;img src="https://thedarklynx786.github.io/p/website-contact-page/YouGotMail.png" alt="Featured image of post Website Contact Page" /&gt;&lt;p&gt;Hello there! You&amp;rsquo;ve been reading a lot of content on this website, haven&amp;rsquo;t you? Well you&amp;rsquo;re a good listener. Or reader. Whichever, you get the point.&lt;/p&gt;
+&lt;p&gt;Now I&amp;rsquo;m going to open up the floor (or simply a new page) where you can send me whatever&amp;rsquo;s on YOUR mind! (It&amp;rsquo;s a contact page, I made a contact page. This is way more dramatic than it&amp;rsquo;s supposed to be, but hey, it&amp;rsquo;s a post, so I suppose there has to be some entertainment value.)&lt;/p&gt;
+&lt;p&gt;So now if you&amp;rsquo;ve got anything you want to say, feel free to shoot me a message!&lt;/p&gt;
+&lt;p&gt;The form currently uses EmailJS, which is pretty basic in terms of a messenger service. I plan to switch to another one soon like Nodemailer where I can (or rather you can) send file attachments without purchasing a subscription. There was a plan to add a section like that, but that&amp;rsquo;s the point where the idea halted.&lt;/p&gt;
+&lt;p&gt;On a real note, try not to send anything hateful, and well, you know your digital ettiquette. I ain&amp;rsquo;t your mom or anything. Also, even if you do send something weird in: first of all, bruh, second of all, I&amp;rsquo;m likely to laugh it off anyway :).&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Elementals OST</title>
+        <link>https://thedarklynx786.github.io/p/elementals-ost/</link>
+        <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx786.github.io/p/elementals-ost/</guid>
+        <description>&lt;img src="https://thedarklynx786.github.io/p/elementals-ost/Spark%20Ops.png" alt="Featured image of post Elementals OST" /&gt;&lt;p&gt;Call me the Iron Chef of BeepBox, cus I&amp;rsquo;m COOKING!!&lt;/p&gt;
+&lt;p&gt;I got involved in the creation of my first game soundtrack for a group of people. They seemed to like it quite a lot, and I certainly hope you all do to! You can listen to it here by clicking on the link &amp;ndash;&amp;gt; &lt;a class=&#34;link&#34; href=&#34;https://thedarklynx786.github.io/bpbx-jmbx-tracks/elementalsost/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;You should really just use the sidebar and find your way through&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Once again, this soundtrack utilizes my signature scale, the Cm phyrgian scale. This time around however, I played around with volume control and and a bunch of other tools that I was somewhat unfamiliar with before, and I happened to get significantly richer sounds. A friend even wanted to sample &amp;ldquo;Bloodlust,&amp;rdquo; one of the tracks I made for this soundtrack. This composition was a big success, and I learned a whole lot about EQ filters and many different tools!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Four Horsemen</title>
+        <link>https://thedarklynx786.github.io/p/four-horsemen/</link>
+        <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx786.github.io/p/four-horsemen/</guid>
+        <description>&lt;img src="https://thedarklynx786.github.io/p/four-horsemen/FourHorsemen.jpg" alt="Featured image of post Four Horsemen" /&gt;&lt;p&gt;Following the game soundtrack I made and the volume control experiments I was undertaking, I decided to undertake a composition series that depicted the Four Horsemen of the Apocalypse.&lt;/p&gt;
+&lt;p&gt;Oh, and did I mention it was metal?&lt;/p&gt;
+&lt;p&gt;You can go check it out here &amp;ndash;&amp;gt; &lt;a class=&#34;link&#34; href=&#34;https://thedarklynx786.github.io/bpbx-jmbx-tracks/fourhorsemen/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Use the sidebar :( Not that hard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Once again I was playing around with the same musical scale, nothing new there, but my experience from the previous music tracks that I made had taught me a lot about volume control, and I ended up making some great metal-sounding tracks that didn&amp;rsquo;t sacrifice sound quality to maintain the distorted metal guitar sound.&lt;/p&gt;
+&lt;p&gt;I am still releasing a few tracks, so keep a lookout for them! I&amp;rsquo;ll make an update post for when the whole project is finished.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Website Music Section</title>
         <link>https://thedarklynx786.github.io/p/website-music-section/</link>
         <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
@@ -140,6 +179,20 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Dermalyze</title>
+        <link>https://thedarklynx786.github.io/p/dermalyze/</link>
+        <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx786.github.io/p/dermalyze/</guid>
+        <description>&lt;img src="https://thedarklynx786.github.io/p/dermalyze/Dermalyze.png" alt="Featured image of post Dermalyze" /&gt;&lt;p&gt;This post is made to advertise Dermalyze, a machine learning project me and a &lt;a class=&#34;link&#34; href=&#34;https://cyberneel.design&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;friend&lt;/a&gt; created that analyzes skin conditions through a machine learning model. Though the model was mostly programmed by my friend, I did a lot of the website design and social media post desiging, and it took off! We took it to hackathons and are entering it into the Congressional App Challenge, which we hope to win. You can go support us at our &lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/dermalyze/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;instagram&lt;/a&gt;, and our &lt;a class=&#34;link&#34; href=&#34;https://dermalyze.tech/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;website&lt;/a&gt; (which you can also go check out through the links page).&lt;/p&gt;
+&lt;p&gt;Also, stating the obvious, if you have a skin condition, please go test our project! We would love to hear feedback about what we made.&lt;/p&gt;
+&lt;p&gt;Through this experience, I&amp;rsquo;m likely going to create a machine learning project of my own, as I&amp;rsquo;ve learned a lot through this experience. You can even see that I reused the website theme for our project site for my own lol. Keep an eye out for more posts to see what I&amp;rsquo;m going to be up to in the (hopefully) near future.&lt;/p&gt;
 </description>
         </item>
         <item>
