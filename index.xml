@@ -2,17 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Murtaza Haque&#39;s Website</title>
-        <link>https://thedarklynx786.github.io/</link>
+        <link>https://thedarklynx.com/</link>
         <description>Recent content on Murtaza Haque&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx786.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>My Special Omelette Recipe</title>
-        <link>https://thedarklynx786.github.io/p/my-special-omelette-recipe/</link>
+        <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Cool Math Art</title>
+        <link>https://thedarklynx.com/p/cool-math-art/</link>
         <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/p/my-special-omelette-recipe/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/p/my-special-omelette-recipe/Finished.jpg" alt="Featured image of post My Special Omelette Recipe" /&gt;&lt;p&gt;*Images Coming Soon*&lt;/p&gt;
+        <guid>https://thedarklynx.com/p/cool-math-art/</guid>
+        <description>&lt;p&gt;Desmos is a great math tool, but people also make some insane math art on it.&lt;/p&gt;
+&lt;p&gt;Of course I&amp;rsquo;ve dabbled in it too, here is a picture of a duck I made in Desmos:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://thedarklynx.com/p/cool-math-art/MohawkDuck.png&#34;
+	width=&#34;536&#34;
+	height=&#34;397&#34;
+	srcset=&#34;https://thedarklynx.com/p/cool-math-art/MohawkDuck_hu1c3f6ea36607ee079875b6723a504881_38013_480x0_resize_box_3.png 480w, https://thedarklynx.com/p/cool-math-art/MohawkDuck_hu1c3f6ea36607ee079875b6723a504881_38013_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Mohawk Duck!!&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;324px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Think that&amp;rsquo;s impressive? It&amp;rsquo;s time for myself to be humbled. Here is a gallery of some of my favorite art pieces for the Desmos Art Competition 2023. You can find more on the &lt;a class=&#34;link&#34; href=&#34;https://www.desmos.com/art&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;official site.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here is a really cool picture of the Hudson River. &lt;a class=&#34;link&#34; href=&#34;https://www.desmos.com/calculator/nkwvtfuv99&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;This one is created by Richard He&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://thedarklynx.com/p/cool-math-art/SunsetHudsonRichardHe.png&#34;
+	width=&#34;758&#34;
+	height=&#34;575&#34;
+	srcset=&#34;https://thedarklynx.com/p/cool-math-art/SunsetHudsonRichardHe_hubf7e265ae734873dac0802f10e68bde1_203507_480x0_resize_box_3.png 480w, https://thedarklynx.com/p/cool-math-art/SunsetHudsonRichardHe_hubf7e265ae734873dac0802f10e68bde1_203507_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;&amp;ldquo;Sunset on the Hudson&amp;rdquo; by Richard He&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;131&#34;
+		data-flex-basis=&#34;316px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This one is actually a piano playing some music! You can do this through the &amp;quot;play graph&amp;quot; feature desmos offers. &lt;a class=&#34;link&#34; href=&#34;https://www.desmos.com/calculator/yvchjdew6g&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;This piece is by Nick Ertman&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://thedarklynx.com/p/cool-math-art/TempestNickErtman.png&#34;
+	width=&#34;1182&#34;
+	height=&#34;808&#34;
+	srcset=&#34;https://thedarklynx.com/p/cool-math-art/TempestNickErtman_hu5450a74a80770ee246ad175db7f3d484_50419_480x0_resize_box_3.png 480w, https://thedarklynx.com/p/cool-math-art/TempestNickErtman_hu5450a74a80770ee246ad175db7f3d484_50419_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;&amp;ldquo;Playing the Tempest&amp;rdquo; by Nick Ertman&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;146&#34;
+		data-flex-basis=&#34;351px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This one is a really, really impressive drawing (or calculation) of a nighttime diner. &lt;a class=&#34;link&#34; href=&#34;https://www.desmos.com/calculator/1cwbqzjqjm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;This is created by Judy Luo&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://thedarklynx.com/p/cool-math-art/NighthawksJudyLuo.png&#34;
+	width=&#34;994&#34;
+	height=&#34;557&#34;
+	srcset=&#34;https://thedarklynx.com/p/cool-math-art/NighthawksJudyLuo_hue4046d5f3db1fdad994946a13324a97e_137517_480x0_resize_box_3.png 480w, https://thedarklynx.com/p/cool-math-art/NighthawksJudyLuo_hue4046d5f3db1fdad994946a13324a97e_137517_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;&amp;ldquo;Nighthawks&amp;rdquo; by Judy Luo&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;428px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;And last for this post, this one is a 3D model of a piano that also plays some music: Clair de Lune by Claude DeBussy. &lt;a class=&#34;link&#34; href=&#34;https://www.desmos.com/3d/4fe020e052&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;This was made by Audrey Chiang&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://thedarklynx.com/p/cool-math-art/ClaireDeLuneAudreyChiang.png&#34;
+	width=&#34;918&#34;
+	height=&#34;783&#34;
+	srcset=&#34;https://thedarklynx.com/p/cool-math-art/ClaireDeLuneAudreyChiang_hu2d6c570bcee2271366816d98aa6e03f4_97597_480x0_resize_box_3.png 480w, https://thedarklynx.com/p/cool-math-art/ClaireDeLuneAudreyChiang_hu2d6c570bcee2271366816d98aa6e03f4_97597_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;&amp;ldquo;Clair de Lune&amp;rdquo; by Audrey Chiang&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;117&#34;
+		data-flex-basis=&#34;281px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Once again this was all Desmos! I couldn&amp;rsquo;t even do this with an actual paintbrush! Really amazing how these creative people managed to do it with mathematical equations. Once again, this stuff is really really cool!&lt;/p&gt;
+&lt;p&gt;Go check them out in the gallery! I&amp;rsquo;ll see you in another post!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>My Special Omelette Recipe</title>
+        <link>https://thedarklynx.com/p/my-special-omelette-recipe/</link>
+        <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx.com/p/my-special-omelette-recipe/</guid>
+        <description>&lt;img src="https://thedarklynx.com/p/my-special-omelette-recipe/Finished.jpg" alt="Featured image of post My Special Omelette Recipe" /&gt;&lt;p&gt;*Images Coming Soon*&lt;/p&gt;
 &lt;h1 id=&#34;do-you-want-to-spice-your-breakfast-up-a-little-bit&#34;&gt;Do you want to spice your breakfast up a little bit?
 &lt;/h1&gt;&lt;p&gt;Well I&amp;rsquo;ve got the perfect recipe! This innovative and transformative omelette recipe is sure to leave the consumers of your food mildy amused!&lt;/p&gt;
 &lt;p&gt;Just check out these reviews!&lt;/p&gt;
@@ -82,30 +174,30 @@
         </item>
         <item>
         <title>Coding Projects</title>
-        <link>https://thedarklynx786.github.io/programming-projects/</link>
+        <link>https://thedarklynx.com/programming-projects/</link>
         <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/programming-projects/</guid>
+        <guid>https://thedarklynx.com/programming-projects/</guid>
         <description>&lt;p&gt;As you know, I am a developer and whatnot, and this website itself is one of my projects! I do have several others though, some small and some big, and this is the page where I showcase them all.&lt;/p&gt;
 &lt;p&gt;Some projects have executables which you can download to run on your own to test them out, and each project will have its own GitHub repository where you can see the code for it.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Roblox Game Judger</title>
-        <link>https://thedarklynx786.github.io/programming-projects/robloxgamejudger/</link>
+        <link>https://thedarklynx.com/programming-projects/robloxgamejudger/</link>
         <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/programming-projects/robloxgamejudger/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/programming-projects/robloxgamejudger/RobloxGameJudger.png" alt="Featured image of post Roblox Game Judger" /&gt;&lt;p&gt;Insert stuff here idk&lt;/p&gt;
+        <guid>https://thedarklynx.com/programming-projects/robloxgamejudger/</guid>
+        <description>&lt;img src="https://thedarklynx.com/programming-projects/robloxgamejudger/RobloxGameJudger.png" alt="Featured image of post Roblox Game Judger" /&gt;&lt;p&gt;Insert stuff here idk&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Website Contact Page</title>
-        <link>https://thedarklynx786.github.io/p/website-contact-page/</link>
+        <link>https://thedarklynx.com/p/website-contact-page/</link>
         <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/p/website-contact-page/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/p/website-contact-page/YouGotMail.png" alt="Featured image of post Website Contact Page" /&gt;&lt;p&gt;Hello there! You&amp;rsquo;ve been reading a lot of content on this website, haven&amp;rsquo;t you? Well you&amp;rsquo;re a good listener. Or reader. Whichever, you get the point.&lt;/p&gt;
+        <guid>https://thedarklynx.com/p/website-contact-page/</guid>
+        <description>&lt;img src="https://thedarklynx.com/p/website-contact-page/YouGotMail.png" alt="Featured image of post Website Contact Page" /&gt;&lt;p&gt;Hello there! You&amp;rsquo;ve been reading a lot of content on this website, haven&amp;rsquo;t you? Well you&amp;rsquo;re a good listener. Or reader. Whichever, you get the point.&lt;/p&gt;
 &lt;p&gt;Now I&amp;rsquo;m going to open up the floor (or simply a new page) where you can send me whatever&amp;rsquo;s on YOUR mind! (It&amp;rsquo;s a contact page, I made a contact page. This is way more dramatic than it&amp;rsquo;s supposed to be, but hey, it&amp;rsquo;s a post, so I suppose there has to be some entertainment value.)&lt;/p&gt;
 &lt;p&gt;So now if you&amp;rsquo;ve got anything you want to say, feel free to shoot me a message!&lt;/p&gt;
 &lt;p&gt;The form currently uses EmailJS, which is pretty basic in terms of a messenger service. I plan to switch to another one soon like Nodemailer where I can (or rather you can) send file attachments without purchasing a subscription. There was a plan to add a section like that, but that&amp;rsquo;s the point where the idea halted.&lt;/p&gt;
@@ -114,22 +206,22 @@
         </item>
         <item>
         <title>Four Horsemen</title>
-        <link>https://thedarklynx786.github.io/bpbx-jmbx-tracks/fourhorsemen/</link>
+        <link>https://thedarklynx.com/bpbx-jmbx-tracks/fourhorsemen/</link>
         <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/bpbx-jmbx-tracks/fourhorsemen/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/bpbx-jmbx-tracks/fourhorsemen/FourHorsemen.jpg" alt="Featured image of post Four Horsemen" /&gt;&lt;p&gt;&amp;ldquo;Four Horsemen&amp;rdquo; is the album I created where I wanted to play around with creating metal tracks on JummBox. Due to its very MIDI nature, JummBox only has one guitar feature for a distinctly &amp;ldquo;metal&amp;rdquo; sound. I wanted to try and play around with the tools in JummBox and transform this guitar sound into something more than just its preset.&lt;/p&gt;
+        <guid>https://thedarklynx.com/bpbx-jmbx-tracks/fourhorsemen/</guid>
+        <description>&lt;img src="https://thedarklynx.com/bpbx-jmbx-tracks/fourhorsemen/FourHorsemen.jpg" alt="Featured image of post Four Horsemen" /&gt;&lt;p&gt;&amp;ldquo;Four Horsemen&amp;rdquo; is the album I created where I wanted to play around with creating metal tracks on JummBox. Due to its very MIDI nature, JummBox only has one guitar feature for a distinctly &amp;ldquo;metal&amp;rdquo; sound. I wanted to try and play around with the tools in JummBox and transform this guitar sound into something more than just its preset.&lt;/p&gt;
 &lt;p&gt;The idea for the Four Horsemen of the Apocalypse was kind of random, it just popped into my head. I did think it would make for a really sick theme for a series of metal tracks, and so I decided to center this album from the perspective of the four horsemen.&lt;/p&gt;
 &lt;p&gt;Once again, this uses the Cm/Gm phrygian notes, the ones that produce a really sick metal sound. I have also used certain riffs and musical themes from many different inspirations, ranging from Slipknot to MASTER BOOT RECORD, though they may not be apparently obvious. Check out each of the track descriptions for more details.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Elementals OST</title>
-        <link>https://thedarklynx786.github.io/p/elementals-ost/</link>
+        <link>https://thedarklynx.com/p/elementals-ost/</link>
         <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/p/elementals-ost/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/p/elementals-ost/Spark%20Ops.png" alt="Featured image of post Elementals OST" /&gt;&lt;p&gt;Call me the Iron Chef of BeepBox, cus I&amp;rsquo;m COOKING!!&lt;/p&gt;
+        <guid>https://thedarklynx.com/p/elementals-ost/</guid>
+        <description>&lt;img src="https://thedarklynx.com/p/elementals-ost/Spark%20Ops.png" alt="Featured image of post Elementals OST" /&gt;&lt;p&gt;Call me the Iron Chef of BeepBox, cus I&amp;rsquo;m COOKING!!&lt;/p&gt;
 &lt;p&gt;I got involved in the creation of my first game soundtrack for a group of people. They seemed to like it quite a lot, and I certainly hope you all do to! You can listen to it here by clicking on the link &amp;ndash;&amp;gt; &lt;a class=&#34;link&#34; href=&#34;https://thedarklynx786.github.io/bpbx-jmbx-tracks/elementalsost/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;You should really just use the sidebar and find your way through&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Once again, this soundtrack utilizes my signature scale, the Cm phyrgian scale. This time around however, I played around with volume control and and a bunch of other tools that I was somewhat unfamiliar with before, and I happened to get significantly richer sounds. A friend even wanted to sample &amp;ldquo;Bloodlust,&amp;rdquo; one of the tracks I made for this soundtrack. This composition was a big success, and I learned a whole lot about EQ filters and many different tools!&lt;/p&gt;
@@ -137,11 +229,11 @@
         </item>
         <item>
         <title>Four Horsemen</title>
-        <link>https://thedarklynx786.github.io/p/four-horsemen/</link>
+        <link>https://thedarklynx.com/p/four-horsemen/</link>
         <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/p/four-horsemen/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/p/four-horsemen/FourHorsemen.jpg" alt="Featured image of post Four Horsemen" /&gt;&lt;p&gt;Following the game soundtrack I made and the volume control experiments I was undertaking, I decided to undertake a composition series that depicted the Four Horsemen of the Apocalypse.&lt;/p&gt;
+        <guid>https://thedarklynx.com/p/four-horsemen/</guid>
+        <description>&lt;img src="https://thedarklynx.com/p/four-horsemen/FourHorsemen.jpg" alt="Featured image of post Four Horsemen" /&gt;&lt;p&gt;Following the game soundtrack I made and the volume control experiments I was undertaking, I decided to undertake a composition series that depicted the Four Horsemen of the Apocalypse.&lt;/p&gt;
 &lt;p&gt;Oh, and did I mention it was metal?&lt;/p&gt;
 &lt;p&gt;You can go check it out here &amp;ndash;&amp;gt; &lt;a class=&#34;link&#34; href=&#34;https://thedarklynx786.github.io/bpbx-jmbx-tracks/fourhorsemen/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Use the sidebar :( Not that hard&lt;/a&gt;&lt;/p&gt;
@@ -151,29 +243,29 @@
         </item>
         <item>
         <title>Python Calculator</title>
-        <link>https://thedarklynx786.github.io/programming-projects/pythoncalculator/</link>
+        <link>https://thedarklynx.com/programming-projects/pythoncalculator/</link>
         <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/programming-projects/pythoncalculator/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/programming-projects/pythoncalculator/PythonCalculator.png" alt="Featured image of post Python Calculator" /&gt;&lt;p&gt;Insert stuff here idk&lt;/p&gt;
+        <guid>https://thedarklynx.com/programming-projects/pythoncalculator/</guid>
+        <description>&lt;img src="https://thedarklynx.com/programming-projects/pythoncalculator/PythonCalculator.png" alt="Featured image of post Python Calculator" /&gt;&lt;p&gt;Insert stuff here idk&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Python QR Code Reader/Generator</title>
-        <link>https://thedarklynx786.github.io/programming-projects/pythonqrcode/</link>
+        <link>https://thedarklynx.com/programming-projects/pythonqrcode/</link>
         <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/programming-projects/pythonqrcode/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/programming-projects/pythonqrcode/PythonQR.png" alt="Featured image of post Python QR Code Reader/Generator" /&gt;&lt;p&gt;Insert content here&lt;/p&gt;
+        <guid>https://thedarklynx.com/programming-projects/pythonqrcode/</guid>
+        <description>&lt;img src="https://thedarklynx.com/programming-projects/pythonqrcode/PythonQR.png" alt="Featured image of post Python QR Code Reader/Generator" /&gt;&lt;p&gt;Insert content here&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Elementals OST</title>
-        <link>https://thedarklynx786.github.io/bpbx-jmbx-tracks/elementalsost/</link>
+        <link>https://thedarklynx.com/bpbx-jmbx-tracks/elementalsost/</link>
         <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/bpbx-jmbx-tracks/elementalsost/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/bpbx-jmbx-tracks/elementalsost/Spark%20Ops.png" alt="Featured image of post Elementals OST" /&gt;&lt;p&gt;This soundtrack was one I created while working in HackClub&amp;rsquo;s Arcade Summer Hackathon. I collaborated with a bunch of people to create a Roblox game, where I was the sound designer and track composer. I had a lot of fun, and I ended up creating some of my favorite tracks.&lt;/p&gt;
+        <guid>https://thedarklynx.com/bpbx-jmbx-tracks/elementalsost/</guid>
+        <description>&lt;img src="https://thedarklynx.com/bpbx-jmbx-tracks/elementalsost/Spark%20Ops.png" alt="Featured image of post Elementals OST" /&gt;&lt;p&gt;This soundtrack was one I created while working in HackClub&amp;rsquo;s Arcade Summer Hackathon. I collaborated with a bunch of people to create a Roblox game, where I was the sound designer and track composer. I had a lot of fun, and I ended up creating some of my favorite tracks.&lt;/p&gt;
 &lt;p&gt;The game was previously called SparkOps with the idea in mind that we can shoot electricity out of our guns as a game mechanic, but then we settled on using all the elements through runes and renamed the game Elementals. The image was one we AI-generated for the cover page of our game. Makes a sick album cover!&lt;/p&gt;
 &lt;p&gt;Once again, it really never gets old: I keep using notes that revolve around G and Cm. When they work together, they efficiently create a metal or rock atmosphere, hence why Cm is my favorite key signature and why the notes that it plays around with are often used in metal.&lt;/p&gt;
 &lt;p&gt;Arcade required you to have a Github commit for each project you upload, so here is the &lt;a class=&#34;link&#34; href=&#34;https://github.com/TheDarkLynx786/Elementals-OST&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -182,48 +274,48 @@
         </item>
         <item>
         <title>Contact</title>
-        <link>https://thedarklynx786.github.io/contact/</link>
+        <link>https://thedarklynx.com/contact/</link>
         <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/contact/</guid>
+        <guid>https://thedarklynx.com/contact/</guid>
         <description></description>
         </item>
         <item>
         <title>Corporate Crusade Suite</title>
-        <link>https://thedarklynx786.github.io/bpbx-jmbx-tracks/corporatecrusadesuite/</link>
+        <link>https://thedarklynx.com/bpbx-jmbx-tracks/corporatecrusadesuite/</link>
         <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/bpbx-jmbx-tracks/corporatecrusadesuite/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/bpbx-jmbx-tracks/corporatecrusadesuite/CorporateCrusade.png" alt="Featured image of post Corporate Crusade Suite" /&gt;&lt;p&gt;This is kind of my first &amp;ldquo;set&amp;rdquo; of tracks; calling it an album seems kinda wrong, so I&amp;rsquo;m deciding it to call it a &amp;ldquo;suite.&amp;rdquo; It started with the first track, &amp;ldquo;Corporate Crusade,&amp;rdquo; which was originally made for a game jam with 2 other friends of mine. Eventually I started working on the other tracks, and I soon wish to turn this into an OST for the actual game, which I will be trying to revive, develop, and finish into a decent top-down shooter. I don&amp;rsquo;t have much art to show because art is the one thing I&amp;rsquo;m lacking in game design, so I&amp;rsquo;ll keep a pixel art of the player sprite as a placeholder image for now. As I think of more level ideas, I will compose more tracks and maybe update these old ones.&lt;/p&gt;
+        <guid>https://thedarklynx.com/bpbx-jmbx-tracks/corporatecrusadesuite/</guid>
+        <description>&lt;img src="https://thedarklynx.com/bpbx-jmbx-tracks/corporatecrusadesuite/CorporateCrusade.png" alt="Featured image of post Corporate Crusade Suite" /&gt;&lt;p&gt;This is kind of my first &amp;ldquo;set&amp;rdquo; of tracks; calling it an album seems kinda wrong, so I&amp;rsquo;m deciding it to call it a &amp;ldquo;suite.&amp;rdquo; It started with the first track, &amp;ldquo;Corporate Crusade,&amp;rdquo; which was originally made for a game jam with 2 other friends of mine. Eventually I started working on the other tracks, and I soon wish to turn this into an OST for the actual game, which I will be trying to revive, develop, and finish into a decent top-down shooter. I don&amp;rsquo;t have much art to show because art is the one thing I&amp;rsquo;m lacking in game design, so I&amp;rsquo;ll keep a pixel art of the player sprite as a placeholder image for now. As I think of more level ideas, I will compose more tracks and maybe update these old ones.&lt;/p&gt;
 &lt;p&gt;All of these tracks use the key of C minor, and are centered primarly around the notes G, Ab, and F. Different variations give each track its own identity. I would say this is kind of similar to the Prelude tracks in ULTRAKILL, so there&amp;rsquo;s my inspiration.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Website Music Section</title>
-        <link>https://thedarklynx786.github.io/p/website-music-section/</link>
+        <link>https://thedarklynx.com/p/website-music-section/</link>
         <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/p/website-music-section/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/p/website-music-section/Composition.png" alt="Featured image of post Website Music Section" /&gt;&lt;p&gt;I&amp;rsquo;ve added a new Music Section to my site! It features all of the tracks I have worked on. This post is about a month old from when I am actually writing this (August 2nd, 2024), and that&amp;rsquo;s because it took some time to develop the music section into something I actually found suited my site. And it&amp;rsquo;s live! Go check it out &amp;ndash;&amp;gt; &lt;a class=&#34;link&#34; href=&#34;https://thedarklynx786.github.io/music/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://thedarklynx.com/p/website-music-section/</guid>
+        <description>&lt;img src="https://thedarklynx.com/p/website-music-section/Composition.png" alt="Featured image of post Website Music Section" /&gt;&lt;p&gt;I&amp;rsquo;ve added a new Music Section to my site! It features all of the tracks I have worked on. This post is about a month old from when I am actually writing this (August 2nd, 2024), and that&amp;rsquo;s because it took some time to develop the music section into something I actually found suited my site. And it&amp;rsquo;s live! Go check it out &amp;ndash;&amp;gt; &lt;a class=&#34;link&#34; href=&#34;https://thedarklynx786.github.io/music/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Music Section!&lt;/a&gt; (Or you know, you can just click the tab in the sidebar).&lt;/p&gt;
 &lt;p&gt;It took quite some time to get lists working, so I eventually just defauted to using tile lists and making my own custom ones from the site&amp;rsquo;s theme. It worked really well! Gave me lot&amp;rsquo;s of CSS experience while I was at it. Future plans for the site do include using JavaScript to make more interactive elements. Let&amp;rsquo;s make this site more interesting, eh?&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Archives</title>
-        <link>https://thedarklynx786.github.io/archives/</link>
+        <link>https://thedarklynx.com/archives/</link>
         <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/archives/</guid>
+        <guid>https://thedarklynx.com/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Music</title>
-        <link>https://thedarklynx786.github.io/music/</link>
+        <link>https://thedarklynx.com/music/</link>
         <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/music/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/music/Music%20Page%20Banner.png" alt="Featured image of post Music" /&gt;&lt;p&gt;Welcome to the music section of my website! I have been involved with music since the start of 2018 and I&amp;rsquo;m still running strong! I primarily play percussive instruments, though I have some knowledge of guitar and a little in piano. Here you can find covers that I&amp;rsquo;ve made or pieces that I have performed (Yet to be added).&lt;/p&gt;
+        <guid>https://thedarklynx.com/music/</guid>
+        <description>&lt;img src="https://thedarklynx.com/music/Music%20Page%20Banner.png" alt="Featured image of post Music" /&gt;&lt;p&gt;Welcome to the music section of my website! I have been involved with music since the start of 2018 and I&amp;rsquo;m still running strong! I primarily play percussive instruments, though I have some knowledge of guitar and a little in piano. Here you can find covers that I&amp;rsquo;ve made or pieces that I have performed (Yet to be added).&lt;/p&gt;
 &lt;p&gt;I also compose electronic music using an online DAW I found called &lt;a class=&#34;link&#34; href=&#34;https://www.beepbox.co/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;BeepBox&lt;/strong&gt;&lt;/a&gt; (developed by John Nesky) and a mod for BeepBox called &lt;a class=&#34;link&#34; href=&#34;https://jummb.us/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;JummBox&lt;/strong&gt;&lt;/a&gt;. I don&amp;rsquo;t really have FLStudio or any other professional DAWs, so this will have to work for now. It is really simple to learn and you can make some awesome tracks with it! Below showcase some of the tracks I have made.&lt;/p&gt;
@@ -232,10 +324,10 @@
         </item>
         <item>
         <title>6-26-2024 Bike Logs</title>
-        <link>https://thedarklynx786.github.io/p/6-26-2024-bike-logs/</link>
+        <link>https://thedarklynx.com/p/6-26-2024-bike-logs/</link>
         <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/p/6-26-2024-bike-logs/</guid>
+        <guid>https://thedarklynx.com/p/6-26-2024-bike-logs/</guid>
         <description>&lt;h1 id=&#34;evening-lakeside-ride---6262024&#34;&gt;Evening Lakeside Ride - 6/26/2024
 &lt;/h1&gt;&lt;h1 id=&#34;distance-13-miles&#34;&gt;&lt;strong&gt;Distance: ~13 miles&lt;/strong&gt;
 &lt;/h1&gt;&lt;h2 id=&#34;the-logs&#34;&gt;The Logs
@@ -255,10 +347,10 @@
 &lt;h3 id=&#34;home-stretch-and-more-gear-shift-trouble&#34;&gt;Home Stretch (and More Gear Shift Trouble)
 &lt;/h3&gt;&lt;p&gt;The way back was also pretty straightfoward. I did have some problems with the gear shifting, now interfering with my pedalling. It seems like a project is due to get these back to workable condition. Nevertheless I did make it home and managed to get there just before my dad pulled into the driveway.&lt;/p&gt;
 &lt;h3 id=&#34;gallery&#34;&gt;Gallery
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/NeighborhoodLakeview.jpg&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/NeighborhoodLakeview.jpg&#34;
 	width=&#34;4032&#34;
 	height=&#34;3024&#34;
-	srcset=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/NeighborhoodLakeview_hu80b3ba703ddd64d71145b579fd5142d6_3794108_480x0_resize_q75_box.jpg 480w, https://thedarklynx786.github.io/p/6-26-2024-bike-logs/NeighborhoodLakeview_hu80b3ba703ddd64d71145b579fd5142d6_3794108_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/NeighborhoodLakeview_hu80b3ba703ddd64d71145b579fd5142d6_3794108_480x0_resize_q75_box.jpg 480w, https://thedarklynx.com/p/6-26-2024-bike-logs/NeighborhoodLakeview_hu80b3ba703ddd64d71145b579fd5142d6_3794108_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A picture I took from inside the neighborhood.&#34;
@@ -269,10 +361,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/OverflowingLake.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/OverflowingLake.jpg&#34;
 	width=&#34;4032&#34;
 	height=&#34;3024&#34;
-	srcset=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/OverflowingLake_hu2e52a8502ab570a6a33de72b57233eb9_3674411_480x0_resize_q75_box.jpg 480w, https://thedarklynx786.github.io/p/6-26-2024-bike-logs/OverflowingLake_hu2e52a8502ab570a6a33de72b57233eb9_3674411_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/OverflowingLake_hu2e52a8502ab570a6a33de72b57233eb9_3674411_480x0_resize_q75_box.jpg 480w, https://thedarklynx.com/p/6-26-2024-bike-logs/OverflowingLake_hu2e52a8502ab570a6a33de72b57233eb9_3674411_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A view of the overflowing lake. That tree is knee-deep. Could trees have knees?&#34;
@@ -283,10 +375,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/SubmergedBeach.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/SubmergedBeach.jpg&#34;
 	width=&#34;4032&#34;
 	height=&#34;3024&#34;
-	srcset=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/SubmergedBeach_hua5ec7f4c0d3bf6215ede61379378d40e_2977820_480x0_resize_q75_box.jpg 480w, https://thedarklynx786.github.io/p/6-26-2024-bike-logs/SubmergedBeach_hua5ec7f4c0d3bf6215ede61379378d40e_2977820_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/SubmergedBeach_hua5ec7f4c0d3bf6215ede61379378d40e_2977820_480x0_resize_q75_box.jpg 480w, https://thedarklynx.com/p/6-26-2024-bike-logs/SubmergedBeach_hua5ec7f4c0d3bf6215ede61379378d40e_2977820_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo of the beach without the beach, and the volleyball courts. Volleyball in the water does sound fun!&#34;
@@ -297,10 +389,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/SubmergedTrees.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/SubmergedTrees.jpg&#34;
 	width=&#34;4032&#34;
 	height=&#34;3024&#34;
-	srcset=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/SubmergedTrees_hud2bd450a4bbefdf0a0b6817ae2e47e29_5551845_480x0_resize_q75_box.jpg 480w, https://thedarklynx786.github.io/p/6-26-2024-bike-logs/SubmergedTrees_hud2bd450a4bbefdf0a0b6817ae2e47e29_5551845_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/SubmergedTrees_hud2bd450a4bbefdf0a0b6817ae2e47e29_5551845_480x0_resize_q75_box.jpg 480w, https://thedarklynx.com/p/6-26-2024-bike-logs/SubmergedTrees_hud2bd450a4bbefdf0a0b6817ae2e47e29_5551845_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A photo of some submerged trees. Normally these would have made for some great shade.&#34;
@@ -311,10 +403,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/CloseWaters.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/CloseWaters.jpg&#34;
 	width=&#34;4032&#34;
 	height=&#34;3024&#34;
-	srcset=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/CloseWaters_hu0f9f26ac398a6c42df617b54ee44601b_4902168_480x0_resize_q75_box.jpg 480w, https://thedarklynx786.github.io/p/6-26-2024-bike-logs/CloseWaters_hu0f9f26ac398a6c42df617b54ee44601b_4902168_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/CloseWaters_hu0f9f26ac398a6c42df617b54ee44601b_4902168_480x0_resize_q75_box.jpg 480w, https://thedarklynx.com/p/6-26-2024-bike-logs/CloseWaters_hu0f9f26ac398a6c42df617b54ee44601b_4902168_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The water catches up to a nearby building. Lucky that place won&amp;rsquo;t be getting wet.&#34;
@@ -325,10 +417,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/BanksideView.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/BanksideView.jpg&#34;
 	width=&#34;4032&#34;
 	height=&#34;3024&#34;
-	srcset=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/BanksideView_hu5460d1ea435b5df994a00879658db80f_3360286_480x0_resize_q75_box.jpg 480w, https://thedarklynx786.github.io/p/6-26-2024-bike-logs/BanksideView_hu5460d1ea435b5df994a00879658db80f_3360286_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/BanksideView_hu5460d1ea435b5df994a00879658db80f_3360286_480x0_resize_q75_box.jpg 480w, https://thedarklynx.com/p/6-26-2024-bike-logs/BanksideView_hu5460d1ea435b5df994a00879658db80f_3360286_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A nice, bankside view of the flooded lake. The sun is soon to set.&#34;
@@ -339,10 +431,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/SidewalkLakeview.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/SidewalkLakeview.jpg&#34;
 	width=&#34;4608&#34;
 	height=&#34;3456&#34;
-	srcset=&#34;https://thedarklynx786.github.io/p/6-26-2024-bike-logs/SidewalkLakeview_hu62319ba0dde072ab4753c7727fa9d51d_4067135_480x0_resize_q75_box.jpg 480w, https://thedarklynx786.github.io/p/6-26-2024-bike-logs/SidewalkLakeview_hu62319ba0dde072ab4753c7727fa9d51d_4067135_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://thedarklynx.com/p/6-26-2024-bike-logs/SidewalkLakeview_hu62319ba0dde072ab4753c7727fa9d51d_4067135_480x0_resize_q75_box.jpg 480w, https://thedarklynx.com/p/6-26-2024-bike-logs/SidewalkLakeview_hu62319ba0dde072ab4753c7727fa9d51d_4067135_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A final view of the lake from the sidewalk, as well as some more submerged trees. The water touches the sidewalk!&#34;
@@ -357,11 +449,11 @@
         </item>
         <item>
         <title>Dermalyze</title>
-        <link>https://thedarklynx786.github.io/p/dermalyze/</link>
+        <link>https://thedarklynx.com/p/dermalyze/</link>
         <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/p/dermalyze/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/p/dermalyze/Dermalyze.png" alt="Featured image of post Dermalyze" /&gt;&lt;p&gt;This post is made to advertise Dermalyze, a machine learning project me and a &lt;a class=&#34;link&#34; href=&#34;https://cyberneel.design&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://thedarklynx.com/p/dermalyze/</guid>
+        <description>&lt;img src="https://thedarklynx.com/p/dermalyze/Dermalyze.png" alt="Featured image of post Dermalyze" /&gt;&lt;p&gt;This post is made to advertise Dermalyze, a machine learning project me and a &lt;a class=&#34;link&#34; href=&#34;https://cyberneel.design&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;friend&lt;/a&gt; created that analyzes skin conditions through a machine learning model. Though the model was mostly programmed by my friend, I did a lot of the website design and social media post desiging, and it took off! We took it to hackathons and are entering it into the Congressional App Challenge, which we hope to win. You can go support us at our &lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/dermalyze/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;instagram&lt;/a&gt;, and our &lt;a class=&#34;link&#34; href=&#34;https://dermalyze.tech/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;website&lt;/a&gt; (which you can also go check out through the links page).&lt;/p&gt;
@@ -371,10 +463,10 @@
         </item>
         <item>
         <title>About</title>
-        <link>https://thedarklynx786.github.io/about/</link>
+        <link>https://thedarklynx.com/about/</link>
         <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/about/</guid>
+        <guid>https://thedarklynx.com/about/</guid>
         <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me
 &lt;/h2&gt;&lt;p&gt;I&amp;rsquo;m Murtaza Haque, and I&amp;rsquo;m a fervid programmer who loves to code stuff! I also do many other things that people refer to as &amp;lsquo;hobbies.&amp;rsquo; Combining these interests together, I made this website as an online warehouse or diary for all of the activities I undertake. You can expect to find many of my projects here as well as my personally curated blogs on some things that I like talking about.&lt;/p&gt;
 &lt;h2 id=&#34;so-what-can-you-expect-to-find-on-this-website&#34;&gt;So what can you expect to find on this website?
@@ -393,58 +485,58 @@
         </item>
         <item>
         <title>First post</title>
-        <link>https://thedarklynx786.github.io/p/first-post/</link>
+        <link>https://thedarklynx.com/p/first-post/</link>
         <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/p/first-post/</guid>
+        <guid>https://thedarklynx.com/p/first-post/</guid>
         <description>&lt;p&gt;Funny, I actually never put any content on this post.&lt;/p&gt;
 &lt;p&gt;First post of many! Stay tuned for more!&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Ozymandias</title>
-        <link>https://thedarklynx786.github.io/bpbx-jmbx-tracks/ozymandias/</link>
+        <link>https://thedarklynx.com/bpbx-jmbx-tracks/ozymandias/</link>
         <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/bpbx-jmbx-tracks/ozymandias/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/bpbx-jmbx-tracks/ozymandias/OzymandiasMitryAnderson.jpg" alt="Featured image of post Ozymandias" /&gt;&lt;p&gt;I made this piece after playing around with some chords on a piano site (link on the main page). The progression was assisted by a really cool melody with a really cool preset, and soon it evolved into this track. I think the naming of this track was probably the best thing I&amp;rsquo;ve named, as the title seems to fit very well with how the track sounds. There is a cool music-box section and also a violin solo at the end, so check it out!&lt;/p&gt;
+        <guid>https://thedarklynx.com/bpbx-jmbx-tracks/ozymandias/</guid>
+        <description>&lt;img src="https://thedarklynx.com/bpbx-jmbx-tracks/ozymandias/OzymandiasMitryAnderson.jpg" alt="Featured image of post Ozymandias" /&gt;&lt;p&gt;I made this piece after playing around with some chords on a piano site (link on the main page). The progression was assisted by a really cool melody with a really cool preset, and soon it evolved into this track. I think the naming of this track was probably the best thing I&amp;rsquo;ve named, as the title seems to fit very well with how the track sounds. There is a cool music-box section and also a violin solo at the end, so check it out!&lt;/p&gt;
 &lt;p&gt;This is also the first track I made that was non-loopable and a full production.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Chill Jam</title>
-        <link>https://thedarklynx786.github.io/bpbx-jmbx-tracks/chill-jam/</link>
+        <link>https://thedarklynx.com/bpbx-jmbx-tracks/chill-jam/</link>
         <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/bpbx-jmbx-tracks/chill-jam/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/bpbx-jmbx-tracks/chill-jam/Chill.jpeg" alt="Featured image of post Chill Jam" /&gt;&lt;p&gt;This track was inspired by those weird but good sounding ethereal-aesthetic drones that you sometimes find on YouTube, and also a little bit by the OneShot OST. I also kind of wanted to encapsulate the feeling of stying nice and warm inside while it snows outside, which is certainly wishful thinking because there was no snow when I was creating this piece.&lt;/p&gt;
+        <guid>https://thedarklynx.com/bpbx-jmbx-tracks/chill-jam/</guid>
+        <description>&lt;img src="https://thedarklynx.com/bpbx-jmbx-tracks/chill-jam/Chill.jpeg" alt="Featured image of post Chill Jam" /&gt;&lt;p&gt;This track was inspired by those weird but good sounding ethereal-aesthetic drones that you sometimes find on YouTube, and also a little bit by the OneShot OST. I also kind of wanted to encapsulate the feeling of stying nice and warm inside while it snows outside, which is certainly wishful thinking because there was no snow when I was creating this piece.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Experiments</title>
-        <link>https://thedarklynx786.github.io/bpbx-jmbx-tracks/experiments/</link>
+        <link>https://thedarklynx.com/bpbx-jmbx-tracks/experiments/</link>
         <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/bpbx-jmbx-tracks/experiments/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/bpbx-jmbx-tracks/experiments/Experiments.jpeg" alt="Featured image of post Experiments" /&gt;&lt;p&gt;The tracks showcased here are a bunch of play-around tracks I made before I got a little serious with making music on BeepBox/JummBox. They are pretty basic and a good place to look back to see how far I&amp;rsquo;ve come.&lt;/p&gt;
+        <guid>https://thedarklynx.com/bpbx-jmbx-tracks/experiments/</guid>
+        <description>&lt;img src="https://thedarklynx.com/bpbx-jmbx-tracks/experiments/Experiments.jpeg" alt="Featured image of post Experiments" /&gt;&lt;p&gt;The tracks showcased here are a bunch of play-around tracks I made before I got a little serious with making music on BeepBox/JummBox. They are pretty basic and a good place to look back to see how far I&amp;rsquo;ve come.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://thedarklynx786.github.io/links/</link>
+        <link>https://thedarklynx.com/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/links/</guid>
+        <guid>https://thedarklynx.com/links/</guid>
         <description>&lt;p&gt;Here are some of my links to profiles I&amp;rsquo;ve set up on different social platforms.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t normally use that much social media so there aren&amp;rsquo;t that many. I&amp;rsquo;ll keep this updated when I join any new platforms.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://thedarklynx786.github.io/search/</link>
+        <link>https://thedarklynx.com/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/search/</guid>
+        <guid>https://thedarklynx.com/search/</guid>
         <description></description>
         </item>
         

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>website on Murtaza Haque&#39;s Website</title>
-        <link>https://thedarklynx786.github.io/categories/website/</link>
+        <link>https://thedarklynx.com/categories/website/</link>
         <description>Recent content in website on Murtaza Haque&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx786.github.io/categories/website/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx.com/categories/website/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Website Contact Page</title>
-        <link>https://thedarklynx786.github.io/p/website-contact-page/</link>
+        <link>https://thedarklynx.com/p/website-contact-page/</link>
         <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/p/website-contact-page/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/p/website-contact-page/YouGotMail.png" alt="Featured image of post Website Contact Page" /&gt;&lt;p&gt;Hello there! You&amp;rsquo;ve been reading a lot of content on this website, haven&amp;rsquo;t you? Well you&amp;rsquo;re a good listener. Or reader. Whichever, you get the point.&lt;/p&gt;
+        <guid>https://thedarklynx.com/p/website-contact-page/</guid>
+        <description>&lt;img src="https://thedarklynx.com/p/website-contact-page/YouGotMail.png" alt="Featured image of post Website Contact Page" /&gt;&lt;p&gt;Hello there! You&amp;rsquo;ve been reading a lot of content on this website, haven&amp;rsquo;t you? Well you&amp;rsquo;re a good listener. Or reader. Whichever, you get the point.&lt;/p&gt;
 &lt;p&gt;Now I&amp;rsquo;m going to open up the floor (or simply a new page) where you can send me whatever&amp;rsquo;s on YOUR mind! (It&amp;rsquo;s a contact page, I made a contact page. This is way more dramatic than it&amp;rsquo;s supposed to be, but hey, it&amp;rsquo;s a post, so I suppose there has to be some entertainment value.)&lt;/p&gt;
 &lt;p&gt;So now if you&amp;rsquo;ve got anything you want to say, feel free to shoot me a message!&lt;/p&gt;
 &lt;p&gt;The form currently uses EmailJS, which is pretty basic in terms of a messenger service. I plan to switch to another one soon like Nodemailer where I can (or rather you can) send file attachments without purchasing a subscription. There was a plan to add a section like that, but that&amp;rsquo;s the point where the idea halted.&lt;/p&gt;
@@ -21,21 +21,21 @@
         </item>
         <item>
         <title>Website Music Section</title>
-        <link>https://thedarklynx786.github.io/p/website-music-section/</link>
+        <link>https://thedarklynx.com/p/website-music-section/</link>
         <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/p/website-music-section/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/p/website-music-section/Composition.png" alt="Featured image of post Website Music Section" /&gt;&lt;p&gt;I&amp;rsquo;ve added a new Music Section to my site! It features all of the tracks I have worked on. This post is about a month old from when I am actually writing this (August 2nd, 2024), and that&amp;rsquo;s because it took some time to develop the music section into something I actually found suited my site. And it&amp;rsquo;s live! Go check it out &amp;ndash;&amp;gt; &lt;a class=&#34;link&#34; href=&#34;https://thedarklynx786.github.io/music/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://thedarklynx.com/p/website-music-section/</guid>
+        <description>&lt;img src="https://thedarklynx.com/p/website-music-section/Composition.png" alt="Featured image of post Website Music Section" /&gt;&lt;p&gt;I&amp;rsquo;ve added a new Music Section to my site! It features all of the tracks I have worked on. This post is about a month old from when I am actually writing this (August 2nd, 2024), and that&amp;rsquo;s because it took some time to develop the music section into something I actually found suited my site. And it&amp;rsquo;s live! Go check it out &amp;ndash;&amp;gt; &lt;a class=&#34;link&#34; href=&#34;https://thedarklynx786.github.io/music/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Music Section!&lt;/a&gt; (Or you know, you can just click the tab in the sidebar).&lt;/p&gt;
 &lt;p&gt;It took quite some time to get lists working, so I eventually just defauted to using tile lists and making my own custom ones from the site&amp;rsquo;s theme. It worked really well! Gave me lot&amp;rsquo;s of CSS experience while I was at it. Future plans for the site do include using JavaScript to make more interactive elements. Let&amp;rsquo;s make this site more interesting, eh?&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>First post</title>
-        <link>https://thedarklynx786.github.io/p/first-post/</link>
+        <link>https://thedarklynx.com/p/first-post/</link>
         <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/p/first-post/</guid>
+        <guid>https://thedarklynx.com/p/first-post/</guid>
         <description>&lt;p&gt;Funny, I actually never put any content on this post.&lt;/p&gt;
 &lt;p&gt;First post of many! Stay tuned for more!&lt;/p&gt;
 </description>

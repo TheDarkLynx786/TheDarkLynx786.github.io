@@ -2,57 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Murtaza Haque&#39;s Website</title>
-        <link>https://thedarklynx786.github.io/categories/</link>
+        <link>https://thedarklynx.com/categories/</link>
         <description>Recent content in Categories on Murtaza Haque&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx786.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>cooking</title>
-        <link>https://thedarklynx786.github.io/categories/cooking/</link>
+        <link>https://thedarklynx.com/categories/cooking/</link>
         <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/categories/cooking/</guid>
+        <guid>https://thedarklynx.com/categories/cooking/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>math</title>
+        <link>https://thedarklynx.com/categories/math/</link>
+        <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx.com/categories/math/</guid>
         <description></description>
         </item>
         <item>
         <title>website</title>
-        <link>https://thedarklynx786.github.io/categories/website/</link>
+        <link>https://thedarklynx.com/categories/website/</link>
         <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/categories/website/</guid>
+        <guid>https://thedarklynx.com/categories/website/</guid>
         <description></description>
         </item>
         <item>
         <title>music</title>
-        <link>https://thedarklynx786.github.io/categories/music/</link>
+        <link>https://thedarklynx.com/categories/music/</link>
         <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/categories/music/</guid>
+        <guid>https://thedarklynx.com/categories/music/</guid>
         <description></description>
         </item>
         <item>
         <title>bike logs</title>
-        <link>https://thedarklynx786.github.io/categories/bike-logs/</link>
+        <link>https://thedarklynx.com/categories/bike-logs/</link>
         <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/categories/bike-logs/</guid>
+        <guid>https://thedarklynx.com/categories/bike-logs/</guid>
         <description></description>
         </item>
         <item>
         <title>dermalyze</title>
-        <link>https://thedarklynx786.github.io/categories/dermalyze/</link>
+        <link>https://thedarklynx.com/categories/dermalyze/</link>
         <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/categories/dermalyze/</guid>
+        <guid>https://thedarklynx.com/categories/dermalyze/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>https://thedarklynx786.github.io/categories/test/</link>
+        <link>https://thedarklynx.com/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/categories/test/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://thedarklynx.com/categories/test/</guid>
+        <description>&lt;img src="https://thedarklynx.com/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        <item>
+        <title>tips/tricks</title>
+        <link>https://thedarklynx.com/categories/tips/tricks/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://thedarklynx.com/categories/tips/tricks/</guid>
+        <description></description>
         </item>
         
     </channel>

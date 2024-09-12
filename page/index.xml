@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Murtaza Haque&#39;s Website</title>
-        <link>https://thedarklynx786.github.io/page/</link>
+        <link>https://thedarklynx.com/page/</link>
         <description>Recent content in Pages on Murtaza Haque&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx786.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedarklynx.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Coding Projects</title>
-        <link>https://thedarklynx786.github.io/programming-projects/</link>
+        <link>https://thedarklynx.com/programming-projects/</link>
         <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/programming-projects/</guid>
+        <guid>https://thedarklynx.com/programming-projects/</guid>
         <description>&lt;p&gt;As you know, I am a developer and whatnot, and this website itself is one of my projects! I do have several others though, some small and some big, and this is the page where I showcase them all.&lt;/p&gt;
 &lt;p&gt;Some projects have executables which you can download to run on your own to test them out, and each project will have its own GitHub repository where you can see the code for it.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Contact</title>
-        <link>https://thedarklynx786.github.io/contact/</link>
+        <link>https://thedarklynx.com/contact/</link>
         <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/contact/</guid>
+        <guid>https://thedarklynx.com/contact/</guid>
         <description></description>
         </item>
         <item>
         <title>Archives</title>
-        <link>https://thedarklynx786.github.io/archives/</link>
+        <link>https://thedarklynx.com/archives/</link>
         <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/archives/</guid>
+        <guid>https://thedarklynx.com/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Music</title>
-        <link>https://thedarklynx786.github.io/music/</link>
+        <link>https://thedarklynx.com/music/</link>
         <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/music/</guid>
-        <description>&lt;img src="https://thedarklynx786.github.io/music/Music%20Page%20Banner.png" alt="Featured image of post Music" /&gt;&lt;p&gt;Welcome to the music section of my website! I have been involved with music since the start of 2018 and I&amp;rsquo;m still running strong! I primarily play percussive instruments, though I have some knowledge of guitar and a little in piano. Here you can find covers that I&amp;rsquo;ve made or pieces that I have performed (Yet to be added).&lt;/p&gt;
+        <guid>https://thedarklynx.com/music/</guid>
+        <description>&lt;img src="https://thedarklynx.com/music/Music%20Page%20Banner.png" alt="Featured image of post Music" /&gt;&lt;p&gt;Welcome to the music section of my website! I have been involved with music since the start of 2018 and I&amp;rsquo;m still running strong! I primarily play percussive instruments, though I have some knowledge of guitar and a little in piano. Here you can find covers that I&amp;rsquo;ve made or pieces that I have performed (Yet to be added).&lt;/p&gt;
 &lt;p&gt;I also compose electronic music using an online DAW I found called &lt;a class=&#34;link&#34; href=&#34;https://www.beepbox.co/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;BeepBox&lt;/strong&gt;&lt;/a&gt; (developed by John Nesky) and a mod for BeepBox called &lt;a class=&#34;link&#34; href=&#34;https://jummb.us/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;JummBox&lt;/strong&gt;&lt;/a&gt;. I don&amp;rsquo;t really have FLStudio or any other professional DAWs, so this will have to work for now. It is really simple to learn and you can make some awesome tracks with it! Below showcase some of the tracks I have made.&lt;/p&gt;
@@ -47,10 +47,10 @@
         </item>
         <item>
         <title>About</title>
-        <link>https://thedarklynx786.github.io/about/</link>
+        <link>https://thedarklynx.com/about/</link>
         <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/about/</guid>
+        <guid>https://thedarklynx.com/about/</guid>
         <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me
 &lt;/h2&gt;&lt;p&gt;I&amp;rsquo;m Murtaza Haque, and I&amp;rsquo;m a fervid programmer who loves to code stuff! I also do many other things that people refer to as &amp;lsquo;hobbies.&amp;rsquo; Combining these interests together, I made this website as an online warehouse or diary for all of the activities I undertake. You can expect to find many of my projects here as well as my personally curated blogs on some things that I like talking about.&lt;/p&gt;
 &lt;h2 id=&#34;so-what-can-you-expect-to-find-on-this-website&#34;&gt;So what can you expect to find on this website?
@@ -69,20 +69,20 @@
         </item>
         <item>
         <title>Links</title>
-        <link>https://thedarklynx786.github.io/links/</link>
+        <link>https://thedarklynx.com/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/links/</guid>
+        <guid>https://thedarklynx.com/links/</guid>
         <description>&lt;p&gt;Here are some of my links to profiles I&amp;rsquo;ve set up on different social platforms.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t normally use that much social media so there aren&amp;rsquo;t that many. I&amp;rsquo;ll keep this updated when I join any new platforms.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://thedarklynx786.github.io/search/</link>
+        <link>https://thedarklynx.com/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://thedarklynx786.github.io/search/</guid>
+        <guid>https://thedarklynx.com/search/</guid>
         <description></description>
         </item>
         
